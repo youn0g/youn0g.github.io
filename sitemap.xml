@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://youn0g.github.io/about/index.html</loc>
+    <loc>https://www.youngtingwang.cn/about/index.html</loc>
     
     <lastmod>2023-07-01</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>http://youn0g.github.io/2023/06/30/%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</loc>
+    <loc>https://www.youngtingwang.cn/2023/06/30/%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</loc>
     
     <lastmod>2023-06-30</lastmod>
     
@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>http://youn0g.github.io/2023/06/30/%E5%9B%BE%E5%BA%8A%E9%85%8D%E7%BD%AE/</loc>
+    <loc>https://www.youngtingwang.cn/2023/06/30/%E5%9B%BE%E5%BA%8A%E9%85%8D%E7%BD%AE/</loc>
     
     <lastmod>2023-06-30</lastmod>
     
@@ -29,7 +29,7 @@
   </url>
   
   <url>
-    <loc>http://youn0g.github.io/category/index.html</loc>
+    <loc>https://www.youngtingwang.cn/category/index.html</loc>
     
     <lastmod>2023-06-29</lastmod>
     
@@ -38,7 +38,7 @@
   </url>
   
   <url>
-    <loc>http://youn0g.github.io/tag/index.html</loc>
+    <loc>https://www.youngtingwang.cn/tag/index.html</loc>
     
     <lastmod>2023-06-29</lastmod>
     
@@ -48,7 +48,7 @@
   
 
   <url>
-    <loc>http://youn0g.github.io/</loc>
+    <loc>https://www.youngtingwang.cn/</loc>
     <lastmod>2023-07-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
@@ -56,7 +56,7 @@
 
   
   <url>
-    <loc>http://youn0g.github.io/tags/hexo/</loc>
+    <loc>https://www.youngtingwang.cn/tags/hexo/</loc>
     <lastmod>2023-07-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -65,7 +65,7 @@
 
   
   <url>
-    <loc>http://youn0g.github.io/categories/2023-06/</loc>
+    <loc>https://www.youngtingwang.cn/categories/2023-06/</loc>
     <lastmod>2023-07-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
